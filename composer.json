@@ -1,0 +1,17 @@
+{
+    "name": "gonn/gonntest",
+    "description": "a test package",
+    "license": "1.0",
+    "authors": [
+        {
+            "name": "chengye",
+            "email": "chengye@gonn.com.cn"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "gonntest\\": "src/"
+        }
+    }
+}
